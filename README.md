@@ -1,0 +1,2 @@
+# main
+ lotto Sim (django)
